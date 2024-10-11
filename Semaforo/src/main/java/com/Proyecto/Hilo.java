@@ -1,4 +1,4 @@
-package com.Package;
+package com.Proyecto;;
 
 public abstract class Hilo extends Thread {
     protected Buffer buffer;
